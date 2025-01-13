@@ -98,5 +98,5 @@ Acknowledgments
 - LangChain: Framework for AI agent integration.
 - penAI: For powering the intelligent interactions.
 - Python Community: For the tools and libraries that make automation accessible.
-- 
+
 With Browser Use, you can empower your AI agents to navigate and interact with the web like never before. 🚀
