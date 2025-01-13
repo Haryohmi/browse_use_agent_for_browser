@@ -2,13 +2,9 @@ import os
 from langchain_openai import ChatOpenAI
 from browser_use import Agent
 import asyncio
-import datetime as time
 
 # Retrieve OpenAI API key
 os.environ["OPENAI_API_KEY"] = ("OPENAI_API_KEY")
-
-# Get the current time
-current_time = time.datetime.now()
 
 async def execute_task():
     """Executes the agent's task."""
