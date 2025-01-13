@@ -11,14 +11,14 @@ Browser Use simplifies browser automation by providing an easy-to-use interface 
 - Retrieve content from web pages and process it intelligently.
 In this script, Browser Use is used alongside LangChain's ChatOpenAI for robust task execution and asynchronous Python for efficient processing.
 
-#Demo 1
+# Demo 1
 
 [Prompt]: Go to British Airways website, search for a return flight from London to New York, Depart 20/01/2025 return 30/01/2025 and return the cheapest flight.
 ![Letter to Papa](https://github.com/Haryohmi/browse_use_agent_for_browser/blob/main/agent_history1.gif)
 
 <br/><br/>
 
-#Demo 2
+# Demo 2
 
 [Prompt]: Go to https://www.youtube.com/@HarvestersTV/videos, click on the first video and play it.
 ![Letter to Papa](https://github.com/Haryohmi/browse_use_agent_for_browser/blob/main/agent_historyHtv.gif)
