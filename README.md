@@ -3,7 +3,7 @@
 This Python script demonstrates how to harness the power of Browser Use, a powerful yet simple tool that connects AI agents to the browser. Browser Use allows AI agents to interact with websites seamlessly, making web-based automation tasks straightforward and efficient.
 
 ---
-![Letter to Papa](https://github.com/user-attachments/assets/242ade3e-15bc-41c2-988f-cbc5415a66aa)
+![Letter to Papa](https://github.com/Haryohmi/browse_use_agent_for_browser/blob/main/agent_history1.gif)
 ## Overview
 
 Browser Use simplifies browser automation by providing an easy-to-use interface for AI agents. This tool enables AI-powered agents to:
